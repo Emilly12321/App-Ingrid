@@ -11,6 +11,6 @@
 
 <div align="center">
   
-![Captura de tela 2024-06-03 144044](https://github.com/Emilly12321/App-Ingrid/assets/132796425/b82ed337-4a94-4926-8aed-f9792634a4fa)
+![Captura de tela 2024-06-03 151735](https://github.com/Emilly12321/App-Ingrid/assets/132796425/94d13e8c-0c1d-49c5-a7b0-bc378fb6afea)
 
 </div>
